@@ -1,6 +1,6 @@
 ![logo](http://docs.behat.org/en/latest/_static/images/b@2x.png)
 
-## What is Sencha Behat ?
+## What is Behat ?
 
 [Behat](http://docs.behat.org/en/latest/) is a PHP framework for autotesting your business expectations. 
 
