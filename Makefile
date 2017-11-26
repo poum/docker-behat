@@ -1,5 +1,5 @@
 IMAGE=poum/behat
-VERSION=3.2
+VERSION=3.4
 
 build: Dockerfile
 	docker build -t $(IMAGE) .
